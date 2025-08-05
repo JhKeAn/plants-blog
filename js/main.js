@@ -1,6 +1,3 @@
-// Aquí agregaremos funcionalidades futuras (lightbox, scroll, etc.)
-console.log("Blog de plantas cargado 🌱");
-
 // main.js – Lightbox para la galería de plantas
 document.addEventListener("DOMContentLoaded", () => {
   const lightbox     = document.getElementById("lightbox");
